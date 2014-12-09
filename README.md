@@ -1,4 +1,4 @@
-# MMThumb
+# MMThumb [![Gem](http://img.shields.io/gem/v/mmthumb.svg)](https://rubygems.org/gems/mmthumb) [![Yard Docs](http://img.shields.io/badge/yard-docs-blue.svg)](http://www.rubydoc.info/github/drbig/mmthumb/master)
 
 * [Homepage](https://github.com/drbig/)
 * [Documentation](http://rubydoc.info/gems/mmthumb/frames)
